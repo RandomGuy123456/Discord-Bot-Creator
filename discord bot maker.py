@@ -1,7 +1,7 @@
 T = True
 
 print("""
-Welcome to My discord Bot Creator By Richard Sbaschnig!
+Welcome to My discord Bot Creator By Richard!
 To Use, go to "https://discordapp.com/developers/applications/me" and
 create a new app. Give it a name and description, then click create app.
 Then, scroll down to where it says create a bot user, and click it.
