@@ -1,3 +1,3 @@
 # Discord Bot Creator
-A Program that Creates DIscord Bots. Very Basic.
-Uses Pyhton 3
+A Program that Creates Discord Bots. Very Basic.
+Uses Python 3
